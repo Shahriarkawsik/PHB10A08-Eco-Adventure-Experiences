@@ -1,0 +1,68 @@
+[
+  {
+      "id": 1,
+      "img": "https://i.ibb.co.com/pwy35Xk/cherry.jpg",
+      "location": "Kyoto, Japan",
+      "eventTitle": "Cherry Blossom Festival Tour",
+      "review": 1245,
+      "ratings": 4.8,
+      "tourType": "Cultural Tour",
+      "cost": 1500,
+      "duration": "5 days - 4 nights"
+  },
+  {
+      "id": 2,
+      "img": "https://i.ibb.co.com/BBzMc3M/Safari.jpg",
+      "location": "Masai Mara, Kenya",
+      "eventTitle": "Great Migration Safari",
+      "review": 987,
+      "ratings": 4.9,
+      "tourType": "Wildlife",
+      "cost": 3200,
+      "duration": "7 days - 6 nights"
+  },
+  {
+      "id": 3,
+      "img": "https://i.ibb.co.com/9hPRK8s/Cruise.jpg",
+      "location": "Norwegian Fjords, Norway",
+      "eventTitle": "Fjord Exploration Cruise",
+      "review": 650,
+      "ratings": 4.7,
+      "tourType": "River Cruise",
+      "cost": 2200,
+      "duration": "6 days - 5 nights"
+  },
+  {
+      "id": 4,
+      "img": "https://i.ibb.co.com/3sTgV0d/Taj-Mahal.jpg",
+      "location": "Agra, India",
+      "eventTitle": "Golden Triangle Tour",
+      "review": 1120,
+      "ratings": 4.8,
+      "tourType": "Rail Tour",
+      "cost": 1200,
+      "duration": "4 days - 3 nights"
+  },
+  {
+      "id": 5,
+      "img": "https://i.ibb.co.com/1Mb9WTf/Lights.jpg",
+      "location": "Reykjavik, Iceland",
+      "eventTitle": "Northern Lights Adventure",
+      "review": 1423,
+      "ratings": 4.9,
+      "tourType": "Adventure",
+      "cost": 2700,
+      "duration": "5 days - 4 nights"
+  },
+  {
+      "id": 6,
+      "img": "https://i.ibb.co.com/K71BKgf/Grand-Canyon.jpg",
+      "location": "Grand Canyon, USA",
+      "eventTitle": "Grand Canyon Hiking Expedition",
+      "review": 785,
+      "ratings": 4.6,
+      "tourType": "Hiking",
+      "cost": 1800,
+      "duration": "6 days - 5 nights"
+  }
+]
